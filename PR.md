@@ -37,7 +37,7 @@
   - Teszt Géza
   - Teszt Iván
   - Teszt Emese
-- Hozzon létre egy megosztott mappát, amely csak írási joggal rendelkezik és automatikusan felcsatolásra kerül. (1p)
+- Hozzon létre egy megosztott mappát, amely csak olvasás joggal rendelkezik és automatikusan felcsatolásra kerül. (1p)
 
 ### **5. Tartományba léptetés (2 pont)**
 - Lépje be a klienseket az Active Directory tartományba és ellenőrizze az erőforrások elérését.
